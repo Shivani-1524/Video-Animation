@@ -1,0 +1,18 @@
+html {
+  height: 100vh;
+}
+
+body {
+  /* background-color: #bc999c; */
+  background-color: #b5838d;
+  height: 1000vh;
+}
+
+canvas {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-height: 100vh;
+  max-width: 100%;
+}
